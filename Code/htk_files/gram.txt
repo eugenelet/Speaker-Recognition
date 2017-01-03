@@ -1,2 +1,2 @@
-$speaker = Speaker; 
+$speaker = SingerA; 
 ($speaker) 
